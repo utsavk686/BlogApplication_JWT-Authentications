@@ -29,7 +29,7 @@
 
 **5. Spring Data JPA** - Database interaction
 
-**6. MySQL/PostgreSQL** - Database
+**6. MySQL** - Database
 
 
 
